@@ -38,7 +38,7 @@ const QuestionFour = () => {
         </div>
         <div className="col col-sm-6 mt-4">
           <div className="d-flex justify-content-center">
-            <img src="../q4.png" alt="question4Picture" />
+            <img src="./q4.png" alt="question4Picture" />
           </div>
         </div>
       </div>
