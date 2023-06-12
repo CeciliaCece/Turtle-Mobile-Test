@@ -38,11 +38,11 @@ const QuestionOne = () => {
               1+2-3+4-5+6-.....+ 或 - N<br />
               （N一定是正整數）
             </p>
-            <div className="d-flex justify-content-evenly ans mb-8">
-              <label htmlFor="num" className="form-label">
+            <div className="d-flex justify-content-start ans mb-8">
+              <label htmlFor="num" className="form-label me-2">
                 N :<div className="invalid-feedback ms-1">此欄位為必填</div>
               </label>
-              <div>
+              <div className="me-2">
                 <input
                   id="num"
                   type="number"
