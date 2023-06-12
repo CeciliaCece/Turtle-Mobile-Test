@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Turtle-Mobile-Test/static/css/main.e41f6f41.css",
-    "main.js": "/Turtle-Mobile-Test/static/js/main.422af8a3.js",
+    "main.js": "/Turtle-Mobile-Test/static/js/main.cb42fd78.js",
     "index.html": "/Turtle-Mobile-Test/index.html",
     "main.e41f6f41.css.map": "/Turtle-Mobile-Test/static/css/main.e41f6f41.css.map",
-    "main.422af8a3.js.map": "/Turtle-Mobile-Test/static/js/main.422af8a3.js.map"
+    "main.cb42fd78.js.map": "/Turtle-Mobile-Test/static/js/main.cb42fd78.js.map"
   },
   "entrypoints": [
     "static/css/main.e41f6f41.css",
-    "static/js/main.422af8a3.js"
+    "static/js/main.cb42fd78.js"
   ]
 }
